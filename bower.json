@@ -1,0 +1,13 @@
+{
+  "name": "ScBar",
+  "version": "0.0.1",
+  "authors": [
+    "Ej Corpuz <efren@codeninja.co>"
+  ],
+  "main": "ScBar.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ejcodeninja/ScBar.git"
+  }
+}
